@@ -60,8 +60,8 @@ DATABASES = {
     'default': {
         'NAME': 'djangotut',
         'ENGINE': 'mysql.connector.django',
-        'USER': 'python',
-        'PASSWORD': 'django10o10o',
+        'USER': 'root',
+        'PASSWORD': '',
         'OPTIONS': {
           'autocommit': True,
         },
